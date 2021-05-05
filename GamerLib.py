@@ -14,8 +14,8 @@ from plaid.errors import APIError, ItemError
 
 #all of these variables need to go into a (secure) non-github file
 testenvironment = 'sandbox'
-plaidclientid = '60874cba33acb50010bedbce'
-secretcode = '17555accf2fcb6174b2f0437be674e'
+plaidclientid = '60874cba33acxsdf10bedbce'
+secretcode = '17555accfsdfakdk4b2f0437be674e'
 db = "dbname=FinalProject user=postgres password=admin host=127.0.0.1 port=5432"
 
 class Gamer:
